@@ -1,4 +1,5 @@
 <h1>Hi, I'm Jon! <br/><a href="https://www.linkedin.com/in/jon-m-morales/">Cybersecurity Professional</a></h1>
+<script src="https://tryhackme.com/badge/264677"></script>
 
 <h2>👨‍💻 Scripting Projects:</h2>
 
