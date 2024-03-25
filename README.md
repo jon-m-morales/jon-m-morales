@@ -1,5 +1,4 @@
 <h1>Hi, I'm Jon! <br/><a href="https://www.linkedin.com/in/jon-m-morales/">Cybersecurity Professional</a></h1>
-<script src="https://tryhackme.com/badge/264677"></script>
 
 <h2>👨‍💻 Scripting Projects:</h2>
 
@@ -21,11 +20,16 @@
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="Jon M | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Jon M | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Jon M | TryHackMe" src="https://tryhackme-badges.s3.amazonaws.com/0xGlitchy.png" />][tryhackme]<br><br><br>
+[<img align="left" alt="Jon M | Twitter" width="50px" src="https://github.com/jon-m-morales/jon-m-morales/assets/164501256/fd3c7ade-37d5-43ff-830d-d310637b657e" />][twitter]
+[<img align="left" alt="Jon M | LinkedIn" width="50px" src="https://github.com/jon-m-morales/jon-m-morales/assets/164501256/2c3a5534-b740-4264-ab8f-2b8cb7485497" />][linkedin]
+
 
 [twitter]: https://twitter.com/0xGlitchy
 [linkedin]: https://linkedin.com/in/jon-m-morales
+[tryhackme]: https://tryhackme.com/p/0xGlitchy
+
+
 
 <!--
 **jon-m-morales/jon-m-morales** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -39,5 +43,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: ...https://raw.githubusercontent.com/dheereshagrwal/colored-icons/abc7fd264f36c6a1e3fc16e1cd5e94735ec671d8/public/icons/linkedin/linkedin.svg
 -->
