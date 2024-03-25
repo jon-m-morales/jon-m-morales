@@ -5,10 +5,11 @@
 - <b>Bash</b>
   - [IP Sweeper](https://github.com/jon-m-morales/IPSweeper)
 
+<!--
 - <b>PowerShell</b>
 
 - <b>Python</b>
-
+-->
 <h2>🔒 Cybersecurity Projects</h2>
 
 - [Wazuh SIEM & EDR]()
