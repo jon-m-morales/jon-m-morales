@@ -12,7 +12,8 @@
 -->
 <h2>🔒 Cybersecurity Projects</h2>
 
-- [Wazuh SIEM & EDR]()
+- <b>Blue Team</b>
+  - [Wazuh SIEM & EDR](https://github.com/jon-m-morales/Wazuh-Homelab)
 
 
 <h2>📖 Certifications</h2>
