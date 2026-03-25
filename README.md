@@ -27,7 +27,8 @@
 [<img align="left" alt="Jon M | LinkedIn" width="50px" src="https://github.com/jon-m-morales/jon-m-morales/assets/164501256/2c3a5534-b740-4264-ab8f-2b8cb7485497" />][linkedin]
 
 
-[twitter]: https://twitter.com/0xGlitchy <br>
+[twitter]: https://twitter.com/0xGlitchy 
+<br>
 [linkedin]: https://linkedin.com/in/jon-m-morales
 [tryhackme]: https://tryhackme.com/p/0xGlitchy
 
