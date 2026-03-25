@@ -28,7 +28,7 @@
 
 
 [twitter]: https://twitter.com/0xGlitchy
-[linkedin]: https://linkedin.com/in/jon-m-morales
+[linkedin]: https://linkedin.com/in/jon-m-morales  
 [tryhackme]: https://tryhackme.com/p/0xGlitchy
 
 
