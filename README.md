@@ -13,7 +13,7 @@
 <h2>🔒 Cybersecurity Projects</h2>
 
 - <b>Blue Team</b>
-  - [Wazuh SIEM & EDR](https://github.com/jon-m-morales/Wazuh-Homelab)
+  - [SOAR & EDR](https://github.com/jon-m-morales/EDR-SOAR-Project)
 
 
 <h2>📖 Certifications</h2>
