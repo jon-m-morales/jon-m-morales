@@ -19,7 +19,7 @@
 
 <h2>📖 Certifications</h2>
 
-- [eLearnSecurity Junior Penetration Tester](https://verified.elearnsecurity.com/certificates/3f8eae0d-cb64-460f-b176-8fa96db8ab0b)
+- [eLearnSecurity Junior Penetration Tester](https://certs.ine.com/e6a758fa-c3ef-48f0-a311-266ef2bfd3ce#acc.RV9Fasnl)
 - [Practical Junior Penetration Tester](https://certified.tcm-sec.com/adf959c6-391c-4b4b-8f62-640205bb62ed?key=96a8d0c53ec9c3ca7b0cc5bc2cd1b16ede308a384167c9282c3b435ba8dc2475)
 - Practial SOC Analyst Associate (In Progress)
 
